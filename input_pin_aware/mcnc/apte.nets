@@ -1,0 +1,465 @@
+UCLA nets 1.0
+# Created      : Thu Nov 09 18:23:28 PST 2000
+# User         : huaizhi@olympus
+# Platform     : SunOS 5.6 sparc
+
+NumNets : 97
+NumPins : 287
+
+NetDegree : 10
+# The pad/pins in this net are of type "PWR"
+VDD B
+cc_11 B	: %48.4 %50.0
+cc_12 B	: %48.4 %50.0
+cc_13 B	: %48.4 %50.0
+cc_14 B	: %48.4 %50.0
+cc_21 B	: %48.4 %50.0
+cc_22 B	: %48.4 %50.0
+cc_23 B	: %48.4 %50.0
+cc_24 B	: %48.4 %50.0
+clk B	: %50.0 %-9.4
+NetDegree : 9
+# The pad/pins in this net are of type "PWR"
+GND B
+cc_11 B	: %46.6 %50.0
+cc_12 B	: %46.6 %50.0
+cc_13 B	: %46.6 %50.0
+cc_14 B	: %46.6 %50.0
+cc_21 B	: %46.6 %50.0
+cc_22 B	: %46.6 %50.0
+cc_23 B	: %46.6 %50.0
+cc_24 B	: %46.6 %50.0
+NetDegree : 3
+new18 B
+# The above terminal is a pad
+cc_11 B	: %-46.2 %50.0
+cc_12 B	: %-46.2 %-50.0
+NetDegree : 3
+new19 B
+# The above terminal is a pad
+cc_11 B	: %-46.4 %50.0
+cc_12 B	: %-46.4 %-50.0
+NetDegree : 3
+new17 B
+# The above terminal is a pad
+cc_11 B	: %-45.9 %50.0
+cc_12 B	: %-45.9 %-50.0
+NetDegree : 3
+new16 B
+# The above terminal is a pad
+cc_11 B	: %50.0 %39.7
+cc_21 B	: %-44.7 %-50.0
+NetDegree : 9
+cc_11 B	: %50.0 %22.2
+cc_12 B	: %50.0 %22.2
+cc_13 B	: %50.0 %22.2
+cc_14 B	: %50.0 %22.2
+cc_21 B	: %-50.0 %25.7
+cc_22 B	: %-50.0 %25.7
+cc_23 B	: %-50.0 %25.7
+cc_24 B	: %-50.0 %25.7
+clk B	: %-11.8 %-50.0
+NetDegree : 9
+new1 B
+# The above terminal is a pad
+cc_11 B	: %50.0 %13.4
+cc_12 B	: %50.0 %13.4
+cc_13 B	: %50.0 %13.4
+cc_14 B	: %50.0 %13.4
+cc_21 B	: %-50.0 %-3.8
+cc_22 B	: %-50.0 %-3.8
+cc_23 B	: %-50.0 %-3.8
+cc_24 B	: %-50.0 %-3.8
+NetDegree : 3
+new15 B
+# The above terminal is a pad
+cc_11 B	: %50.0 %2.9
+cc_21 B	: %-45.2 %-50.0
+NetDegree : 3
+new14 B
+# The above terminal is a pad
+cc_11 B	: %50.0 %-28.0
+cc_21 B	: %-45.5 %-50.0
+NetDegree : 9
+cc_11 B	: %50.0 %-41.0
+cc_12 B	: %50.0 %-41.0
+cc_13 B	: %50.0 %-41.0
+cc_14 B	: %50.0 %-41.0
+cc_21 B	: %-50.0 %26.1
+cc_22 B	: %-50.0 %26.1
+cc_23 B	: %-50.0 %26.1
+cc_24 B	: %-50.0 %26.1
+clk B	: %-17.1 %-50.0
+NetDegree : 9
+cc_11 B	: %50.0 %-40.5
+cc_12 B	: %50.0 %-40.5
+cc_13 B	: %50.0 %-40.5
+cc_14 B	: %50.0 %-40.5
+cc_21 B	: %-50.0 %21.0
+cc_22 B	: %-50.0 %21.0
+cc_23 B	: %-50.0 %21.0
+cc_24 B	: %-50.0 %21.0
+clk B	: %-50.0 %-3.8
+NetDegree : 6
+cc_11 B	: %50.0 %49.5
+cc_12 B	: %37.6 %-50.0
+cc_12 B	: %37.4 %-50.0
+cc_21 B	: %-46.0 %50.0
+cc_21 B	: %-46.5 %50.0
+cc_22 B	: %-46.5 %-50.0
+NetDegree : 4
+cc_11 B	: %50.0 %-41.4
+cc_12 B	: %50.0 %-41.4
+cc_13 B	: %50.0 %-41.4
+cc_14 B	: %50.0 %-41.4
+NetDegree : 2
+cc_11 B	: %50.0 %-41.8
+cc_12 B	: %-19.7 %-50.0
+NetDegree : 9
+cc_11 B	: %50.0 %-42.3
+cc_12 B	: %50.0 %-42.3
+cc_13 B	: %50.0 %-42.3
+cc_14 B	: %50.0 %-42.3
+cc_21 B	: %-50.0 %-44.1
+cc_22 B	: %-50.0 %-44.1
+cc_23 B	: %-50.0 %-44.1
+cc_24 B	: %-50.0 %-44.1
+clk B	: %44.4 %-50.0
+NetDegree : 2
+new5 B
+# The above terminal is a pad
+cc_11 B	: %-50.0 %-45.2
+NetDegree : 2
+new4 B
+# The above terminal is a pad
+cc_11 B	: %-50.0 %1.7
+NetDegree : 2
+new3 B
+# The above terminal is a pad
+cc_11 B	: %-50.0 %2.9
+NetDegree : 3
+new2 B
+# The above terminal is a pad
+cc_11 B	: %-50.0 %44.6
+cc_12 B	: %-50.0 %-45.2
+NetDegree : 2
+new8 B
+# The above terminal is a pad
+cc_11 B	: %-46.4 %-50.0
+NetDegree : 2
+new10 B
+# The above terminal is a pad
+cc_11 B	: %24.2 %-50.0
+NetDegree : 2
+new11 B
+# The above terminal is a pad
+cc_11 B	: %26.0 %-50.0
+NetDegree : 2
+new6 B
+# The above terminal is a pad
+cc_11 B	: %-46.2 %-50.0
+NetDegree : 2
+new7 B
+# The above terminal is a pad
+cc_11 B	: %-45.9 %-50.0
+NetDegree : 2
+cc_11 B	: %-19.7 %-50.0
+cc_24 B	: %-42.7 %50.0
+NetDegree : 3
+new12 B
+# The above terminal is a pad
+cc_11 B	: %37.6 %-50.0
+cc_21 B	: %-46.5 %-50.0
+NetDegree : 3
+new29 B
+# The above terminal is a pad
+cc_12 B	: %-46.2 %50.0
+cc_13 B	: %-46.2 %-50.0
+NetDegree : 3
+new30 B
+# The above terminal is a pad
+cc_12 B	: %-46.4 %50.0
+cc_13 B	: %-46.4 %-50.0
+NetDegree : 3
+new28 B
+# The above terminal is a pad
+cc_12 B	: %-45.9 %50.0
+cc_13 B	: %-45.9 %-50.0
+NetDegree : 3
+cc_12 B	: %50.0 %39.7
+cc_21 B	: %-44.7 %50.0
+cc_22 B	: %-44.7 %-50.0
+NetDegree : 3
+cc_12 B	: %50.0 %2.9
+cc_21 B	: %-45.2 %50.0
+cc_22 B	: %-45.2 %-50.0
+NetDegree : 3
+cc_12 B	: %50.0 %-28.0
+cc_21 B	: %-45.5 %50.0
+cc_22 B	: %-45.5 %-50.0
+NetDegree : 6
+cc_12 B	: %50.0 %49.5
+cc_13 B	: %37.6 %-50.0
+cc_13 B	: %37.4 %-50.0
+cc_22 B	: %-46.0 %50.0
+cc_22 B	: %-46.5 %50.0
+cc_23 B	: %-46.5 %-50.0
+NetDegree : 2
+cc_12 B	: %50.0 %-41.8
+cc_13 B	: %-19.7 %-50.0
+NetDegree : 2
+new22 B
+# The above terminal is a pad
+cc_12 B	: %-50.0 %1.7
+NetDegree : 2
+new21 B
+# The above terminal is a pad
+cc_12 B	: %-50.0 %2.9
+NetDegree : 3
+new20 B
+# The above terminal is a pad
+cc_12 B	: %-50.0 %44.6
+cc_13 B	: %-50.0 %-45.2
+NetDegree : 3
+new40 B
+# The above terminal is a pad
+cc_13 B	: %-46.2 %50.0
+cc_14 B	: %-46.2 %-50.0
+NetDegree : 3
+new41 B
+# The above terminal is a pad
+cc_13 B	: %-46.4 %50.0
+cc_14 B	: %-46.4 %-50.0
+NetDegree : 3
+new39 B
+# The above terminal is a pad
+cc_13 B	: %-45.9 %50.0
+cc_14 B	: %-45.9 %-50.0
+NetDegree : 3
+cc_13 B	: %50.0 %39.7
+cc_22 B	: %-44.7 %50.0
+cc_23 B	: %-44.7 %-50.0
+NetDegree : 3
+cc_13 B	: %50.0 %2.9
+cc_22 B	: %-45.2 %50.0
+cc_23 B	: %-45.2 %-50.0
+NetDegree : 3
+cc_13 B	: %50.0 %-28.0
+cc_22 B	: %-45.5 %50.0
+cc_23 B	: %-45.5 %-50.0
+NetDegree : 6
+cc_13 B	: %50.0 %49.5
+cc_14 B	: %37.6 %-50.0
+cc_14 B	: %37.4 %-50.0
+cc_23 B	: %-46.0 %50.0
+cc_23 B	: %-46.5 %50.0
+cc_24 B	: %-46.5 %-50.0
+NetDegree : 2
+cc_13 B	: %50.0 %-41.8
+cc_14 B	: %-19.7 %-50.0
+NetDegree : 2
+new33 B
+# The above terminal is a pad
+cc_13 B	: %-50.0 %1.7
+NetDegree : 2
+new32 B
+# The above terminal is a pad
+cc_13 B	: %-50.0 %2.9
+NetDegree : 3
+new31 B
+# The above terminal is a pad
+cc_13 B	: %-50.0 %44.6
+cc_14 B	: %-50.0 %-45.2
+NetDegree : 2
+new51 B
+# The above terminal is a pad
+cc_14 B	: %-46.2 %50.0
+NetDegree : 2
+new52 B
+# The above terminal is a pad
+cc_14 B	: %-46.4 %50.0
+NetDegree : 2
+new50 B
+# The above terminal is a pad
+cc_14 B	: %-45.9 %50.0
+NetDegree : 3
+cc_14 B	: %50.0 %39.7
+cc_23 B	: %-44.7 %50.0
+cc_24 B	: %-44.7 %-50.0
+NetDegree : 3
+cc_14 B	: %50.0 %2.9
+cc_23 B	: %-45.2 %50.0
+cc_24 B	: %-45.2 %-50.0
+NetDegree : 3
+cc_14 B	: %50.0 %-28.0
+cc_23 B	: %-45.5 %50.0
+cc_24 B	: %-45.5 %-50.0
+NetDegree : 2
+new46 B
+# The above terminal is a pad
+cc_14 B	: %50.0 %-41.8
+NetDegree : 2
+new44 B
+# The above terminal is a pad
+cc_14 B	: %-50.0 %1.7
+NetDegree : 2
+new43 B
+# The above terminal is a pad
+cc_14 B	: %-50.0 %2.9
+NetDegree : 2
+new42 B
+# The above terminal is a pad
+cc_14 B	: %-50.0 %44.6
+NetDegree : 2
+new54 B
+# The above terminal is a pad
+cc_21 B	: %-42.7 %-50.0
+NetDegree : 2
+cc_21 B	: %-42.7 %50.0
+cc_22 B	: %-42.7 %-50.0
+NetDegree : 2
+new59 B
+# The above terminal is a pad
+cc_21 B	: %50.0 %43.3
+NetDegree : 2
+new58 B
+# The above terminal is a pad
+cc_21 B	: %50.0 %42.5
+NetDegree : 2
+new57 B
+# The above terminal is a pad
+cc_21 B	: %50.0 %-3.7
+NetDegree : 2
+new56 B
+# The above terminal is a pad
+cc_21 B	: %50.0 %-26.6
+NetDegree : 2
+new55 B
+# The above terminal is a pad
+cc_21 B	: %50.0 %-41.9
+NetDegree : 2
+new60 B
+# The above terminal is a pad
+cc_21 B	: %50.0 %49.5
+NetDegree : 5
+new0 B
+# The above terminal is a pad
+cc_21 B	: %-50.0 %34.7
+cc_22 B	: %-50.0 %34.7
+cc_23 B	: %-50.0 %34.7
+cc_24 B	: %-50.0 %34.7
+NetDegree : 2
+cc_22 B	: %-42.7 %50.0
+cc_23 B	: %-42.7 %-50.0
+NetDegree : 2
+new66 B
+# The above terminal is a pad
+cc_22 B	: %50.0 %43.3
+NetDegree : 2
+new65 B
+# The above terminal is a pad
+cc_22 B	: %50.0 %42.5
+NetDegree : 2
+new64 B
+# The above terminal is a pad
+cc_22 B	: %50.0 %-3.7
+NetDegree : 2
+new63 B
+# The above terminal is a pad
+cc_22 B	: %50.0 %-26.6
+NetDegree : 2
+new62 B
+# The above terminal is a pad
+cc_22 B	: %50.0 %-41.9
+NetDegree : 2
+new67 B
+# The above terminal is a pad
+cc_22 B	: %50.0 %49.5
+NetDegree : 2
+cc_23 B	: %-42.7 %50.0
+cc_24 B	: %-42.7 %-50.0
+NetDegree : 2
+new73 B
+# The above terminal is a pad
+cc_23 B	: %50.0 %43.3
+NetDegree : 2
+new72 B
+# The above terminal is a pad
+cc_23 B	: %50.0 %42.5
+NetDegree : 2
+new71 B
+# The above terminal is a pad
+cc_23 B	: %50.0 %-3.7
+NetDegree : 2
+new70 B
+# The above terminal is a pad
+cc_23 B	: %50.0 %-26.6
+NetDegree : 2
+new69 B
+# The above terminal is a pad
+cc_23 B	: %50.0 %-41.9
+NetDegree : 2
+new74 B
+# The above terminal is a pad
+cc_23 B	: %50.0 %49.5
+NetDegree : 2
+new83 B
+# The above terminal is a pad
+cc_24 B	: %-44.7 %50.0
+NetDegree : 2
+new85 B
+# The above terminal is a pad
+cc_24 B	: %-45.5 %50.0
+NetDegree : 2
+new84 B
+# The above terminal is a pad
+cc_24 B	: %-45.2 %50.0
+NetDegree : 2
+new82 B
+# The above terminal is a pad
+cc_24 B	: %-40.9 %50.0
+NetDegree : 2
+new86 B
+# The above terminal is a pad
+cc_24 B	: %-46.0 %50.0
+NetDegree : 2
+new81 B
+# The above terminal is a pad
+cc_24 B	: %-31.7 %50.0
+NetDegree : 2
+new79 B
+# The above terminal is a pad
+cc_24 B	: %50.0 %43.3
+NetDegree : 2
+new78 B
+# The above terminal is a pad
+cc_24 B	: %50.0 %42.5
+NetDegree : 2
+new77 B
+# The above terminal is a pad
+cc_24 B	: %50.0 %-3.7
+NetDegree : 2
+new76 B
+# The above terminal is a pad
+cc_24 B	: %50.0 %-26.6
+NetDegree : 2
+new75 B
+# The above terminal is a pad
+cc_24 B	: %50.0 %-41.9
+NetDegree : 2
+new80 B
+# The above terminal is a pad
+cc_24 B	: %50.0 %49.5
+NetDegree : 2
+# The pad/pins in this net are of type "PWR"
+VSS B
+clk B	: %50.0 %46.8
+NetDegree : 2
+TestHS1 B
+# The above terminal is a pad
+clk B	: %-13.3 %-50.0
+NetDegree : 3
+Phi B
+# The above terminal is a pad
+clk B	: %45.8 %-50.0
+clk B	: %-14.2 %-50.0

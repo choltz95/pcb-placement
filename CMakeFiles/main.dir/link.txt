@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -O3  -rdynamic CMakeFiles/main.dir/src/main.cpp.o  -o main -Wl,-rpath,/usr/local/lib /usr/local/lib/libboost_iostreams.so /usr/local/lib/libboost_system.so /usr/local/lib/libboost_filesystem.so /usr/local/lib/libboost_regex.so 
