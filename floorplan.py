@@ -114,7 +114,7 @@ class Box(object):
 http://cc.ee.ntu.edu.tw/~ywchang/Courses/PD_Source/EDA_floorplanning.pdf
 """
 class FloorPlan(object):
-    MARGIN = 0.5
+    MARGIN = 0.1
     ASPECT_RATIO = 5.0
     def __init__(self, boxes, nets, adj, obj=True, norelpairs=None, horizontal_orderings=[], vertical_orderings=[], boundary_W=100, ox=0,oy=0,boundary_H=100, margin=0.5, max_seconds=100, num_cores=1, name=""):
         self.boxes = boxes
